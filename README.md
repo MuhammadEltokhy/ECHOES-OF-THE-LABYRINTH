@@ -314,9 +314,9 @@ Created for educational and entertainment purposes.
 
 ## 👤 Credits
 
-**Developed by**: AI Assistant (Claude)  
+**Developed by**: Tokhy (Nice to meat u man)
 **Framework**: [Textual](https://github.com/Textualize/textual) by Textualize  
-**Inspired by**: Classic roguelikes, psychological horror, and the concept of being hunted by your own past.
+**Inspired by**: My own mid-night imagines!
 
 ---
 
