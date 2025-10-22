@@ -16,6 +16,7 @@ Can you reach the **Chamber of Mirrors** and escape... or will you become anothe
 ## 🎮 How to Play
 
 ### Installation
+## Clone The Repo
 
 ```bash
 # Install required dependencies
@@ -24,6 +25,7 @@ pip install textual rich
 # Run the game
 python main.py
 ```
+## Download The Last Release
 
 ### Controls
 
